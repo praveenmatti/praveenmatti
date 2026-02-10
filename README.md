@@ -5,7 +5,7 @@
 - 🔭 Currently working as **Java Full Stack Intern**
 - 🌱 Learning: Java, Spring Boot, SQL, React.js
 - 💡 Interested in Web Development & Backend Systems
-- 📫 How to reach me: praveen@example.com
+- 📫 How to reach me: praveenmatti77@gmail.com
 - 🚀 Goal: To become a skilled Full Stack Developer
 
 ---

@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm praveen matti</h1>
 <h3 align="center">Aspiring Java Full Stack Developer | Open to Internship Opportunities</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenmatti&label=Profile%20views&color=0e75b6&style=flat" alt="praveenmatti" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenmatti" alt="praveenmatti" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenmatti&show_icons=true&locale=en&layout=compact" alt="praveenmatti" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenmatti&show_icons=true&locale=en" alt="praveenmatti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenmatti&" alt="praveenmatti" /></p>
 
 - 🔭 I’m currently working on **Java Full Stack Web Development Projects Building end-to-end web applications using Java, JDBC, SQL, and React.**
 
@@ -31,8 +34,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/praveen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="praveen" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenmatti&show_icons=true&locale=en&layout=compact" alt="praveenmatti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenmatti&show_icons=true&locale=en" alt="praveenmatti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenmatti&" alt="praveenmatti" /></p>
